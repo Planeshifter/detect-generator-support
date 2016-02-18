@@ -43,6 +43,7 @@
     "support",
     "has",
     "hasgenerator",
+    "hasgenerators",
     "native",
     "issupported",
     "cli"
