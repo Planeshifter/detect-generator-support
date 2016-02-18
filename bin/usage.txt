@@ -1,5 +1,5 @@
 
-Usage: hasgenerator [options]
+Usage: hasgenerators [options]
 
 Options:
 
