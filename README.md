@@ -140,20 +140,20 @@ Copyright &copy; 2016. Philipp Burckhardt.
 [npm-image]: http://img.shields.io/npm/v/detect-generator-support.svg
 [npm-url]: https://npmjs.org/package/detect-generator-support
 
-[build-image]: http://img.shields.io/travis/planeshifter/detect-generator-support/master.svg
-[build-url]: https://travis-ci.org/planeshifter/detect-generator-support
+[build-image]: http://img.shields.io/travis/Planeshifter/detect-generator-support/master.svg
+[build-url]: https://travis-ci.org/Planeshifter/detect-generator-support
 
-[coverage-image]: https://img.shields.io/codecov/c/github/planeshifter/detect-generator-support/master.svg
-[coverage-url]: https://codecov.io/github/planeshifter/detect-generator-support?branch=master
+[coverage-image]: https://img.shields.io/codecov/c/github/Planeshifter/detect-generator-support/master.svg
+[coverage-url]: https://codecov.io/github/Planeshifter/detect-generator-support?branch=master
 
-[dependencies-image]: http://img.shields.io/david/planeshifter/detect-generator-support.svg
-[dependencies-url]: https://david-dm.org/planeshifter/detect-generator-support
+[dependencies-image]: http://img.shields.io/david/Planeshifter/detect-generator-support.svg
+[dependencies-url]: https://david-dm.org/Planeshifter/detect-generator-support
 
-[dev-dependencies-image]: http://img.shields.io/david/dev/planeshifter/detect-generator-support.svg
-[dev-dependencies-url]: https://david-dm.org/dev/planeshifter/detect-generator-support
+[dev-dependencies-image]: http://img.shields.io/david/dev/Planeshifter/detect-generator-support.svg
+[dev-dependencies-url]: https://david-dm.org/dev/Planeshifter/detect-generator-support
 
-[github-issues-image]: http://img.shields.io/github/issues/planeshifter/detect-generator-support.svg
-[github-issues-url]: https://github.com/planeshifter/detect-generator-support/issues
+[github-issues-image]: http://img.shields.io/github/issues/Planeshifter/detect-generator-support.svg
+[github-issues-url]: https://github.com/Planeshifter/detect-generator-support/issues
 
 [tape]: https://github.com/substack/tape
 [istanbul]: https://github.com/gotwarlost/istanbul
