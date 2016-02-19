@@ -1,10 +1,10 @@
 'use strict';
 
-var isGeneratorSupported = require( './../lib' );
+var areGeneratorsSupported = require( './../lib' );
 
-var bool = isGeneratorSupported();
+var bool = areGeneratorsSupported();
 if ( bool ) {
-	console.log( 'Environment has native generator function support.' );
+	console.log( 'Environment has native generator support.' );
 } else {
-	console.log( 'Environment lacks native generator function support.' );
+	console.log( 'Environment lacks native generator support.' );
 }

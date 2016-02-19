@@ -53,19 +53,18 @@
   },
   "dependencies": {
     "minimist": "^1.2.0",
-    "pkginfo": "^0.3.1",
     "update-notifier": "^0.6.0",
     "utils-eval": "^1.0.1"
   },
   "devDependencies": {
-    "browserify": "^12.0.1",
-    "codecov.io": "^0.1.5",
+    "browserify": "13.x.x",
+    "codecov": "1.x.x",
     "istanbul": "^0.4.1",
     "jshint": "2.x.x",
     "jshint-stylish": "2.x.x",
     "proxyquire": "^1.7.3",
     "proxyquire-universal": "^1.0.8",
-    "proxyquireify": "^3.0.1",
+    "proxyquireify": "^3.1.1",
     "tap-spec": "^4.1.1",
     "tape": "^4.4.0",
     "testling": "^1.7.1"
