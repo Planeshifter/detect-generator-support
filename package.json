@@ -53,7 +53,6 @@
   },
   "dependencies": {
     "minimist": "^1.2.0",
-    "pkginfo": "^0.3.1",
     "update-notifier": "^0.6.0",
     "utils-eval": "^1.0.1"
   },
