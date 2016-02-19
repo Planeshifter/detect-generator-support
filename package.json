@@ -1,6 +1,6 @@
 {
   "name": "detect-generator-support",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Detect native generator function support.",
   "author": {
     "name": "Philipp Burckhardt",
