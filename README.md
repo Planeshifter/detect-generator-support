@@ -15,7 +15,7 @@ $ npm install detect-generator-support
 ## Usage
 
 ``` javascript
-var isGeneratorSupported = require( 'detect-generator-support' );
+var areGeneratorsSupported = require( 'detect-generator-support' );
 ```
 
 #### areGeneratorsSupported()
